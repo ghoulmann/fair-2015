@@ -31,3 +31,5 @@ Most operating systems have the following core roles in common:
 3. provide interfaces for the user (such as a desktop or terminal)
 4. manage users and their accounts
 5. manage security
+
+.. index:: operating system, CPU, hardware, security, user accounts

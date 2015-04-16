@@ -96,3 +96,5 @@ Programming languages
 -  Perl
 -  Python
 -  Bash
+
+.. index:: Applications, software, Lubuntu's software suite

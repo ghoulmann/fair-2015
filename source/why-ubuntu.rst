@@ -2,6 +2,10 @@
 Why Ubuntu?
 =========================
 
+.. image:: _static/unity.png
+   :width: 90%
+   :align: center
+   
 By all accounts, for several years running Ubuntu was very consistently the most downloaded GNU/Linux distribution on record.
 
 However, within the last two years, it began to be overshadowed by a Ubuntu derivative called Linux Mint. The popularity of Linux Mint in recent months offers insight into why Ubuntu is so popular, as well as where it's perceived to fall short.
@@ -31,6 +35,10 @@ Linux Mint is an Ubuntu-based distribution whose goal is to *provide a more comp
 
 Thus, many recommend Linux Mint for users who are new to Linux and accustomed to the out-of-the-box useability of proprietary solutions like Microsoft Windows or OS X.
 
+.. image:: _static/linuxmint.png
+   :width: 90%
+   :align: center
+
 Conclusion
 ============
 
@@ -41,3 +49,5 @@ Ubuntu's former popularity had been a resulty of precisely what's made Linux Min
     1. Ubuntu has an outstanding community of contributors that provide community support.
     2. Ubuntu has corporate sponsorship (Canonical Ltd) that guarantees that each long-term support release will be supported for five years.
     3. Ubuntu is unique in that it has a Code of Conduct that promotes good collaboration practices and citizenship for our student community.
+
+.. index:: Ubuntu, Linux Mint, OS X, Canonical Ltd.

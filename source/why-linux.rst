@@ -2,6 +2,15 @@
 What is GNU/Linux?
 ==========================
 
+.. epigraph::
+
+  Given enough eyeballs, all bugs are shallow.
+
+  More formally: Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix will be obvious to someone.
+
+  -- Linus' Law
+
+
 Linux is, in simplest terms, an `operating system <what-os.html>`_. It is the software on a computer that enables applications and the computer operator to access the devices on the computer to perform desired functions.
 
 The operating system (OS) relays instructions from an application to, for instance, the computer's processor. The processor performs the instructed task, then sends the results back to the application via the operating system.
@@ -10,15 +19,26 @@ Explained in these terms, Linux is very similar to other operating systems, such
 
 But something sets Linux apart from these operating systems.
 
-The Linux operating system represented a $25 billion ecosystem in 2008. Since its inception in 1991, *Linux has grown to become a force in computing, powering everything from the New York Stock Exchange to mobile phones to supercomputers to consumer devices.*
+The Linux operating system represented a $25 billion ecosystem in 2008.
 
-As an open operating system, Linux is developed *collaboratively*, meaning no one company is solely responsible for its development or ongoing support. Companies participating in the Linux economy share research and development costs with their partners and competitors. This spreading of development burden amongst individuals and companies has *resulted in a large and efficient ecosystem and unheralded software innovation.*
+Since its inception in 1991, *Linux has grown to become a force in computing, powering everything from the New York Stock Exchange to mobile phones to supercomputers to consumer devices.*
+
+As an open operating system, Linux is developed *collaboratively*, meaning no one company is solely responsible for its development or ongoing support.
+
+Companies participating in the Linux economy share research and development costs with their partners and competitors.
+
+This spreading of development burden amongst individuals and companies has *resulted in a large and efficient ecosystem and unheralded software innovation.*
 
 Over *1,000 developers*, from at least 100 different companies, contribute to every kernel release. In the past two years alone, over *3,200 developers from 200 companies have contributed to the kernel*--which is just one small piece of a Linux distribution.
 
+.. image:: _static/linux-global.png
+   :width: 90%
+   :align: center
+
+*Overall Linux usage, 2015*
+
 The Year of Linux
 ==================
-
 
 Every year, the same question pops up on technology websites: Is 20XX the year of Linux on the desktop? We’re even tempted to ask it ourselves, because so much is happening in the Linux world. But really, is the question still relevant?
 
@@ -31,3 +51,5 @@ Take a Windows user who spends most of his/her time using Google Mail, Google Dr
 .. image:: _static/lv012_cover.jpg
    :width: 80%
    :align: center
+
+.. index:: Linux, GNU/Linux, collaboration, bugs, Linus' Law

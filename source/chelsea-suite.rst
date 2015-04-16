@@ -2,7 +2,9 @@
 Proposed Software Suite
 ============================
 
-In addition to stock Lubuntu applications, we propose the following instructional/assistive applications and productivity tools. It takes into account our student population and the specialized needs of students in the computing program.
+In addition to stock Lubuntu applications, we propose and have included the following instructional/assistive applications and productivity tools.
+
+This list takes into account our student population and the specialized needs of students in the computing program.
 
 Educational
 ============
@@ -37,21 +39,21 @@ Internet
 
 -  Browser : `Mozilla Firefox <https://www.mozilla.org/en-US/firefox/products/>`__
 
--  Internet Relay Chat : `irssi <http://www.pidgin.im/>`__
+- Assistive Technology Extensions : Installed in Google Chrome
 
 
 Office and related
 ===================
 
-- Professional Productivity Suite : `LibreOffice <https://www.libreoffice.org/>`__
+- Professional Productivity Suite (wordprocessor, spreadsheets, presentations): `LibreOffice <https://www.libreoffice.org/>`__
 
 Accessories
 ==============
 
 - Windows Emulator : `Wine Project <https://www.winehq.org/about/>`__
 
-Programming languages
-======================
+Programming languages *(intended for students in computing courses)*
+======================================================================
 
 -  Alternative/upgrade for the traditional bash scripting language : `Zsh <http://www.zsh.org/>`_
 -  Server-side scripting language for websites : `PHP <https://php.net/>`_
@@ -66,3 +68,5 @@ Development/Coding/Programming Tools
 -  Feature-rich code editor for numerous languages : `Geany <http://www.geany.org/>`_
 -  Interactive Python shell : `iPython <http://ipython.org/>`__
 -  Integrated development environment for Python: `Idle <https://en.wikipedia.org/wiki/IDLE_%28Python%29>`_
+
+.. index:: software, assistive technology, educational technology, productivity suite, included software, office suite

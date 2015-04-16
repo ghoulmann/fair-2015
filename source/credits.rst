@@ -1,5 +1,5 @@
 ===============================
-Credits for this years Project
+Credits for this year's project
 ===============================
 
 Includes members of Information Systems Management courses and Web Design and Development.

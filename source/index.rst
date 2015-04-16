@@ -8,25 +8,23 @@ Custom Computing Environment for Students
 
 Contents:
 
+--------------------
+
+* :ref:`genindex`
+
+--------------------
+
 .. toctree::
    :maxdepth: 2
 
    about-project
-   credits
    why-linux
    what-distro
    what-free-software
    what-os
    why-ubuntu
-   what-flavors
-   what-lubuntu
+   why-lubuntu
    lubuntu-stock
    chelsea-suite
+   credits
    scrapbook
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
