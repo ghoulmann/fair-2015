@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    about-project
+   credits
    why-linux
    what-distro
    what-free-software
