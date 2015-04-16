@@ -109,10 +109,22 @@ Obstacles
 
   Nuance's *Dragon Naturally Speaking* seems to have a hold on this market. It's available for Windows and OS X.
 
+Successes
+===========
+
+* Text to Speech works in a writing application and in Google Chrome fitted with excellent extensions.
+
+* Lexia Reading works in a Windows emulator.
+
+* `OpenDyslexic <http://opendyslexic.org/>`_ font works in Google Chrome with a powerful extension.
+
+.. note:: OpenDyslexic is a new open source font created to increase readability for readers with dyslexia. The typeface includes regular, bold, italic, and bold-italic styles. It is being updated continually and improved based on input from dyslexic users. There are no restrictions on using OpenDyslexic outside of attribution.
+
+
 Automated Package Installation
 ===============================
 
-The following shell script - written in the bash language - is used to automate the installation of customized software packages for the purpose of this project::
+The following shell script - written in the `bash <https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.html>`_ scripting language - is used to automate the installation of customized software packages for the purpose of this project::
 
     #!/bin/bash -ex
 
